@@ -7,7 +7,7 @@ import java.util.*;
 
 import javax.swing.JFileChooser;
 import javax.swing.JOptionPane;
-public class Apriori {
+public class Apriori { 
 
     public class Item implements Comparable<Item> {
 	List<String> itemValue = new ArrayList<>();
